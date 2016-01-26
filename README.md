@@ -36,10 +36,10 @@ Final projects by the members
 
 ### ゼミ論
 
-* 小川 慶将
-  「[補完性のある複数財オークション](http://nbviewer.jupyter.org/github/ogaway/Report/blob/master/ZemiThesis/zemithesis20150219.pdf)」  
-  補完性のある複数財オークション下において、The First Price Auction, Vickrey Auction, The Vickrey Nearest Rule, The Reference Rule Auctionの四つの制度について比較分析を行う。
-
 * 山岸 敦
   「[確率進化モデルと均衡選択、行動伝播](https://github.com/haru110jp/StochEvolution/blob/master/zemithesis.pdf)」  
   （要約は1ページ目にあり）
+
+* 小川 慶将
+  「[補完性のある複数財オークション](http://nbviewer.jupyter.org/github/ogaway/Report/blob/master/ZemiThesis/zemithesis20150219.pdf)」  
+  補完性のある複数財オークション下において、The First Price Auction, Vickrey Auction, The Vickrey Nearest Rule, The Reference Rule Auctionの四つの制度について比較分析を行う。
