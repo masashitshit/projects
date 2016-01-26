@@ -7,6 +7,8 @@ Final projects by the members
 
 ### ゼミ論
 
+* 松下: [ネットワーク上での協調ゲーム実験](https://github.com/myuuuuun/NetworkGame/blob/master/%E3%82%BC%E3%83%9F%E8%AB%96%EF%BC%88%E4%BB%AE%EF%BC%89.pdf)  
+ネットワーク上の複数人で協調ゲームおよびバイリンガルゲームを繰り返しプレイし、どのような均衡に収斂するかを調べる。
 
 ## 2014年度
 
@@ -15,4 +17,5 @@ Final projects by the members
 ### ゼミ論
 
 * [小川](https://github.com/yoshimasaogawa/Report/blob/master/%E3%82%BB%E3%82%99%E3%83%9F%E8%AB%96.pdf)
-* 山岸：[確率進化モデルと均衡選択、行動伝播](https://github.com/haru110jp/StochEvolution/blob/master/zemithesis.pdf)（要約は1ページ目にあり）　
+* 山岸：[確率進化モデルと均衡選択、行動伝播](https://github.com/haru110jp/StochEvolution/blob/master/zemithesis.pdf)（要約は1ページ目にあり）
+
