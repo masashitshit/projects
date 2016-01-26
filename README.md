@@ -9,6 +9,10 @@ Final projects by the members
   "[Ambitious and Motivated Managers in R&D Competition](https://github.com/haru110jp/Senior-Thesis-Final-ver-/blob/master/gradthesis_final.pdf)"  
   製品開発競争においてあるバイアスのかかった経営者が持つ戦略的優位性を、ゲーム理論的に分析した。
 
+* 小川 慶将
+  "[ゼミ選考制度改革](http://nbviewer.jupyter.org/github/ogaway/Matching-Market/blob/master/grad.pdf)"  
+  ゼミ選考制度のあり方についてマッチング理論に基づき考察し、新制度の導入を提案する。
+
 ### ゼミ論
 
 * 松下 旦
@@ -33,7 +37,8 @@ Final projects by the members
 ### ゼミ論
 
 * 小川 慶将
-  「[ゼミ論](https://github.com/yoshimasaogawa/Report/blob/master/%E3%82%BB%E3%82%99%E3%83%9F%E8%AB%96.pdf)」  
+  「[補完性のある複数財オークション](http://nbviewer.jupyter.org/github/ogaway/Report/blob/master/ZemiThesis/zemithesis20150219.pdf)」  
+  補完性のある複数財オークション下において、The First Price Auction, Vickrey Auction, The Vickrey Nearest Rule, The Reference Rule Auctionの四つの制度について比較分析を行う。
 
 * 山岸 敦
   「[確率進化モデルと均衡選択、行動伝播](https://github.com/haru110jp/StochEvolution/blob/master/zemithesis.pdf)」  
