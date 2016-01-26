@@ -7,8 +7,11 @@ Final projects by the members
 
 ### ゼミ論
 
-* 松下: [ネットワーク上での協調ゲーム実験](https://github.com/myuuuuun/NetworkGame/blob/master/%E3%82%BC%E3%83%9F%E8%AB%96%EF%BC%88%E4%BB%AE%EF%BC%89.pdf)  
-ネットワーク上の複数人で協調ゲームおよびバイリンガルゲームを繰り返しプレイし、どのような均衡に収斂するかを調べる。
+* 松下1: [ネットワーク上での協調ゲーム実験](https://github.com/myuuuuun/NetworkGame/blob/master/%E3%82%BC%E3%83%9F%E8%AB%96%EF%BC%88%E4%BB%AE%EF%BC%89.pdf)  
+ネットワーク上の複数人で協調ゲーム及びバイリンガルゲームをプレイし、どのような均衡に収斂するかを調べる。
+
+* 松下2: [繰り返し囚人のジレンマゲーム実験](https://github.com/myuuuuun/RepeatedMatrixGame/tree/master/PrisonersDilemma/experiment3)  
+完全観測、不完全公的観測、不完全私的観測の3ルールの下、戦略間の協調がどの程度達成可能かを調べる。
 
 * 池上: [ゼミ論](https://github.com/keiikegami/theano)  
 
