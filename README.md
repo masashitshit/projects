@@ -5,22 +5,27 @@ Final projects by the members
 
 ### 卒論
 
-* 山岸: [Ambitious and Motivated Managers in R&D Competition](https://github.com/haru110jp/Senior-Thesis-Final-ver-/blob/master/gradthesis_final.pdf)
-製品開発競争においてあるバイアスのかかった経営者が持つ戦略的優位性を、ゲーム理論的に分析した。
-
+* 山岸 敦
+  "[Ambitious and Motivated Managers in R&D Competition](https://github.com/haru110jp/Senior-Thesis-Final-ver-/blob/master/gradthesis_final.pdf)"  
+  製品開発競争においてあるバイアスのかかった経営者が持つ戦略的優位性を、ゲーム理論的に分析した。
 
 ### ゼミ論
 
-* 松下1: [ネットワーク上での協調ゲーム実験](https://github.com/myuuuuun/NetworkGame/blob/master/%E3%82%BC%E3%83%9F%E8%AB%96%EF%BC%88%E4%BB%AE%EF%BC%89.pdf)  
-ネットワーク上の複数人で協調ゲーム及びバイリンガルゲームをプレイし、どのような均衡に収斂するかを調べる。
+* 松下 旦
+  「[ネットワーク上での協調ゲーム実験](https://github.com/myuuuuun/NetworkGame/blob/master/%E3%82%BC%E3%83%9F%E8%AB%96%EF%BC%88%E4%BB%AE%EF%BC%89.pdf)」  
+  ネットワーク上の複数人で協調ゲーム及びバイリンガルゲームをプレイし、どのような均衡に収斂するかを調べる。
 
-* 松下2: [繰り返し囚人のジレンマゲーム実験](https://github.com/myuuuuun/RepeatedMatrixGame/tree/master/PrisonersDilemma/experiment3)  
-完全観測、不完全公的観測、不完全私的観測の3ルールの下、戦略間の協調がどの程度達成可能かを調べる。
+* 松下 旦
+  「[繰り返し囚人のジレンマゲーム実験](https://github.com/myuuuuun/RepeatedMatrixGame/tree/master/PrisonersDilemma/experiment3)」  
+  完全観測、不完全公的観測、不完全私的観測の3ルールの下、戦略間の協調がどの程度達成可能かを調べる。
 
-* 池上: [ゼミ論](https://github.com/keiikegami/theano)  
+* 池上 慧
+  「[ゼミ論](https://github.com/keiikegami/theano)」  
 
-* 加藤: [2015年度の進捗の報告と2016年度の計画](https://github.com/NlGG/study/blob/master/ゼミ論.pdf)  
-雑多な感じになってしまいました。oTreeなどで作ったプログラムは追い追い内容をまとめてgithubに公開します。
+* 加藤 真大
+  「[2015年度の進捗の報告と2016年度の計画](https://github.com/NlGG/study/blob/master/ゼミ論.pdf)」  
+  雑多な感じになってしまいました。oTreeなどで作ったプログラムは追い追い内容をまとめてgithubに公開します。
+
 
 ## 2014年度
 
@@ -28,5 +33,9 @@ Final projects by the members
 
 ### ゼミ論
 
-* [小川](https://github.com/yoshimasaogawa/Report/blob/master/%E3%82%BB%E3%82%99%E3%83%9F%E8%AB%96.pdf)
-* 山岸：[確率進化モデルと均衡選択、行動伝播](https://github.com/haru110jp/StochEvolution/blob/master/zemithesis.pdf)（要約は1ページ目にあり）
+* 小川 慶将
+  「[ゼミ論](https://github.com/yoshimasaogawa/Report/blob/master/%E3%82%BB%E3%82%99%E3%83%9F%E8%AB%96.pdf)」  
+
+* 山岸 敦
+  「[確率進化モデルと均衡選択、行動伝播](https://github.com/haru110jp/StochEvolution/blob/master/zemithesis.pdf)」  
+  （要約は1ページ目にあり）
