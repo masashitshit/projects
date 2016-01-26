@@ -10,7 +10,7 @@ Final projects by the members
   製品開発競争においてあるバイアスのかかった経営者が持つ戦略的優位性を、ゲーム理論的に分析した。
 
 * 小川 慶将
-  "[ゼミ選考制度改革](http://nbviewer.jupyter.org/github/ogaway/Matching-Market/blob/master/grad.pdf)"  
+  「[ゼミ選考制度改革](http://nbviewer.jupyter.org/github/ogaway/Matching-Market/blob/master/grad.pdf)」  
   ゼミ選考制度のあり方についてマッチング理論に基づき考察し、新制度の導入を提案する。
 
 ### ゼミ論
@@ -30,8 +30,8 @@ Final projects by the members
   ”[2015年度の進捗の報告と2016年度の計画](https://github.com/NlGG/study/blob/master/ゼミ論.pdf)”  
   ゼミを中心に今年度の学習と研究の成果をまとめました。次のゼミで発表する予定の教育におけるグラフ上のゲームについてのアイデアも記載しております。景気や個人の能力を与えられた上で教育投資を決定することがベッカーの人的資本の考えですが、そこに同級生のpeer effectなどを考慮したグラフ上のゲームを加えることで、教育の地域間格差を考察します。
 
-* 飯田　大貴
-  「[公共財供給ゲームの実験に至るまでの活動記録と2016年度の学習テーマについて](https://github.com/bocchan/costly/blob/master/%E5%B0%BE%E5%B1%B1%E3%82%BC%E3%83%9F%E8%AB%96%E9%A3%AF%E7%94%B0.pdf)」
+* 飯田 大貴
+  「[公共財供給ゲームの実験に至るまでの活動記録と2016年度の学習テーマについて](https://github.com/bocchan/costly/blob/master/%E5%B0%BE%E5%B1%B1%E3%82%BC%E3%83%9F%E8%AB%96%E9%A3%AF%E7%94%B0.pdf)」  
   県内総生産に影響を与える要因、特に人口や教育といった社会資本についての実証分析を考えています。
 
 ## 2014年度
