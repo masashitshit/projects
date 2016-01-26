@@ -5,6 +5,10 @@ Final projects by the members
 
 ### 卒論
 
+* 山岸: [Ambitious and Motivated Managers in R&D Competition](https://github.com/haru110jp/Senior-Thesis-Final-ver-/blob/master/gradthesis_final.pdf)
+製品開発競争においてあるバイアスのかかった経営者が持つ戦略的優位性を、ゲーム理論的に分析した。
+
+
 ### ゼミ論
 
 * 松下1: [ネットワーク上での協調ゲーム実験](https://github.com/myuuuuun/NetworkGame/blob/master/%E3%82%BC%E3%83%9F%E8%AB%96%EF%BC%88%E4%BB%AE%EF%BC%89.pdf)  
