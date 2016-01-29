@@ -35,11 +35,11 @@ Final projects by the members
   県内総生産に影響を与える要因、特に人口や教育といった社会資本についての実証分析を考えています。
 
 * 前田 花観
-　「[じゃんけんゲームにおける理論実証の試みと合理性識別ゲームへの転換](https://github.com/mhanami/zemithesis/blob/master/じゃんけんゲームにおける理論実証の試みと合理性識別ゲームへの転換.pdf)」  
+  「[じゃんけんゲームにおける理論実証の試みと合理性識別ゲームへの転換](https://github.com/mhanami/zemithesis/blob/master/じゃんけんゲームにおける理論実証の試みと合理性識別ゲームへの転換.pdf)」  
   じゃんけんゲームによる分析の頓挫と高次合理性識別がプレイヤーにもたらす影響への考察の方針
 
-* * 大野 嵩侃
-「[高頻度取引が株式・債券市場の価格決定に果たす役割の考察](https://github.com/beeleb/Market-Model/blob/master/%28not%29grad_thesis.pdf)」  
+* 大野 嵩侃
+  「[高頻度取引が株式・債券市場の価格決定に果たす役割の考察](https://github.com/beeleb/Market-Model/blob/master/%28not%29grad_thesis.pdf)」  
   既存の人工市場モデルに高頻度取引のモデルを加え，高頻度取引が市場価格やその変化にどう影響を与えているのか分析した．
 
 ## 2014年度
