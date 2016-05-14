@@ -24,7 +24,8 @@ Final projects by the members
   完全観測、不完全公的観測、不完全私的観測の3ルールの下、戦略間の協調がどの程度達成可能かを調べる。
 
 * 池上 慧
-  「[ゼミ論](https://github.com/keiikegami/theano)」  
+  「[Yamaguchi(2015)の結果を再現](https://github.com/keiikegami/theano)」 
+  Yamaguchi(2015)の結果をpythonを使って再現する。その際にtheanoを使ってみる。
 
 * 加藤 真大
   ”[2015年度の進捗の報告と2016年度の計画](https://github.com/NlGG/study/blob/master/%E3%82%BB%E3%82%99%E3%83%9F%E8%AB%96.pdf)”  
