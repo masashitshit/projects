@@ -27,8 +27,8 @@ Final projects by the members
   「[ゼミ論](https://github.com/keiikegami/theano)」  
 
 * 加藤 真大
-  ”[2015年度の進捗の報告と2016年度の計画](https://github.com/NlGG/study/blob/master/ゼミ論.pdf)”  
-  ゼミを中心に今年度の学習と研究の成果をまとめました。次のゼミで発表する予定の教育におけるグラフ上のゲームについてのアイデアも記載しております。景気や個人の能力を与えられた上で教育投資を決定することがベッカーの人的資本の考えですが、そこに同級生のpeer effectなどを考慮したグラフ上のゲームを加えることで、教育の地域間格差を考察します。
+  ”[2015年度の進捗の報告と2016年度の計画](https://github.com/NlGG/study/blob/master/%E3%82%BB%E3%82%99%E3%83%9F%E8%AB%96.pdf)”  
+  ある集団、たとえば隣人関係や学校のクラス、に所属する経済主体が教育への投資を行う際に、そのコミュニティから受ける影響を分析する。
 
 * 飯田 大貴
   「[公共財供給ゲームの実験に至るまでの活動記録と2016年度の学習テーマについて](https://github.com/bocchan/costly/blob/master/%E5%B0%BE%E5%B1%B1%E3%82%BC%E3%83%9F%E8%AB%96%E9%A3%AF%E7%94%B0.pdf)」  
