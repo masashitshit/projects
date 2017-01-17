@@ -5,6 +5,10 @@ Final projects by the members
 
 ### 卒論
 
+* 高橋　剛史
+  「[サーブルの立ち合いにおける戦略分析](https://github.com/13tsuyoshi/sotsugyou_ronbun)」  　
+　サーブルの試合を、立ち合いを中心にコンピューター上で再現して、色々な戦略を持ったプレイヤー同士を対戦させて考察した。
+ 
 ### ゼミ論
 
 ## 2015年度
