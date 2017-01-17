@@ -4,7 +4,9 @@ Final projects by the members
 ## 2016年度
 
 ### 卒論
-
+* 岡部 匡志
+  「[日本のIPO市場におけるアンダープライシングの時系列分析](https://github.com/M-okb/IPO_analysis/blob/master/latex/test.pdf)」  
+  過去20年のサンプル・データを用い、IPO市場におけるアンダープライシングをARモデルで説明した。
 * 高橋 剛史
   「[サーブルの立ち合いにおける戦略分析](https://github.com/13tsuyoshi/sotsugyou_ronbun)」  
   サーブルの試合を、立ち合いを中心にコンピューター上で再現して、色々な戦略を持ったプレイヤー同士を対戦させて考察した。
