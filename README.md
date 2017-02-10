@@ -11,13 +11,17 @@ Final projects by the members
 * 高橋 剛史
   「[サーブルの立ち合いにおける戦略分析](https://github.com/13tsuyoshi/sotsugyou_ronbun)」  
   サーブルの試合を、立ち合いを中心にコンピューター上で再現して、色々な戦略を持ったプレイヤー同士を対戦させて考察した。
- 
+
 ### ゼミ論
 
 * 瀧川 英輝
   「[スマートフォンの通信キャリア市場における乗り換え割禁止が市場に与える影響](https://github.com/EikiTakigawa/Zemi-Ron/blob/master/%E7%80%A7%E5%B7%9D%E3%82%BC%E3%83%9F%E8%AB%96.pdf)」  
   乗り換え割の禁止が通信キャリア市場にどのような影響の分析についての研究計画です。
-  
+
+* 中田 竜明
+  「[Ashlagi et al.(2015)の結果の再現](http://nbviewer.jupyter.org/github/nswa17/gasshuku-zemiron/blob/master/Zemiron.ipynb)」  
+  不均衡なマッチング市場においてコアが小さくなるという結果を再現する。
+
 ## 2015年度
 
 ### 卒論
