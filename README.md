@@ -22,9 +22,9 @@ Final projects by the members
   「[Ashlagi et al.(2015)の結果の再現](http://nbviewer.jupyter.org/github/nswa17/gasshuku-zemiron/blob/master/Zemiron.ipynb)」  
   不均衡なマッチング市場においてコアが小さくなるという結果を再現する。
   
- * 齊藤 一織
-  「[Learning in experimental 2×2 games(Chmura,Goerg,Selten,2011)の再現](https://github.com/IoriS/zemiron/blob/master/%E3%82%BC%E3%83%9F%E8%AB%96.pdf)」  
-  2×2ゲームにおける均衡概念の紹介と実験の再現です。
+* 齊藤 一織
+  「[Learning in experimental 2×2 games(Chmura,Goerg,Selten,2011)の再現](https://github.com/IoriS/zemiron/blob/master/%E3%82%BC%E3%83%9F%E8%AB%96.pdf)」  
+  2×2ゲームにおける均衡概念の紹介と実験の再現です。
  
 ## 2015年度
 
