@@ -5,7 +5,7 @@ Final projects by the members
 
 ### 卒論
 * 岡部 匡志
-  「[日本のIPO市場におけるアンダープライシングの時系列分析](https://github.com/M-okb/IPO_analysis/blob/master/latex/test.pdf)」  
+  「[日本のIPO市場におけるアンダープライシングの時系列分析](https://github.com/M-okb/IPO_analysis/blob/master/latex/test.pdf)」  
   過去20年のサンプル・データを用い、IPO市場におけるアンダープライシングをARモデルで説明した。
 
 * 高橋 剛史
@@ -13,9 +13,10 @@ Final projects by the members
   サーブルの試合を、立ち合いを中心にコンピューター上で再現して、色々な戦略を持ったプレイヤー同士を対戦させて考察した。
  
 ### ゼミ論
+
 * 瀧川 英輝
-  「[スマートフォンの通信キャリア市場における乗り換え割禁止が市場に与える影響](https://github.com/EikiTakigawa/Zemi-Ron/blob/master/%E7%80%A7%E5%B7%9D%E3%82%BC%E3%83%9F%E8%AB%96.pdf)」  
-  乗り換え割の禁止が通信キャリア市場にどのような影響の分析についての研究計画です。
+  「[スマートフォンの通信キャリア市場における乗り換え割禁止が市場に与える影響](https://github.com/EikiTakigawa/Zemi-Ron/blob/master/%E7%80%A7%E5%B7%9D%E3%82%BC%E3%83%9F%E8%AB%96.pdf)」  
+  乗り換え割の禁止が通信キャリア市場にどのような影響の分析についての研究計画です。
   
 ## 2015年度
 
