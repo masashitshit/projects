@@ -5,6 +5,10 @@ Final projects by the members
 
 ### 卒論
 
+* 森 胤聡
+  「[居住地に着目した日本・米国・オーストラリア・カナダにおける移民の同化に関する実証分析](https://github.com/taneaki/GraduationThesis/blob/master/GraduationThesis_TaneakiMORI.pdf)」  
+  日本・米国・オーストラリア・カナダの４カ国における移民の同化の程度を決定する要因について、国勢調査データを用いて定量分析を行った。
+
 ### ゼミ論
 
 ## 2016年度
