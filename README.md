@@ -13,6 +13,9 @@ Final projects by the members
   "Do You Choose To Stay With Your Coworkers Or Family? A Study In Time Allocation On The After-Work Drinking Session"  
   This paper examines decision-making on the participation of after-work drinking with coworkers using goods and leisure tradeoff model.
  
+* 金丸博樹
+  「[最低賃金引き上げによる”スパイク効果”及び ”スピルオーバー効果”の実証分析  ―週次 Web 求人データの分析より―](https://github.com/hirokikanamaru/GraduationThesis/blob/master/%E5%8D%92%E8%AB%96%E5%AE%8C%E6%88%90%E7%A8%BF%E9%87%91%E4%B8%B8.pdf)」  
+  最低賃金引上げが最低賃金労働者以外の労働者の賃金への波及効果（スピルオーバー効果）を持つかを、週次求人データを用いて定量分析した。
 
 ### ゼミ論
 
