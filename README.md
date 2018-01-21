@@ -20,6 +20,10 @@ Final projects by the members
 * 中田 竜明
   「時間変化する相互作用によるボラティリティクラスタリング創発モデルの検証」  
   Krawiecki(2002)によるAgent Based Modelにネットワーク構造を導入し, 各エージェントが自らと繋がるエージェントとのみ相互作用する場合でもボラティリティクラスタリングが創発することをシミュレーションを行い示した.
+  
+* 津島 亮太
+  「[Multi-Agent Simulation を用いた労働市場のモデリング](https://github.com/R-Tsushima/sotsuron/blob/master/Papers.pdf)」
+  シェリングの分居モデルにおけるエージェントのルールを参考に、労働市場における労働者と雇用主のマッチング状況についてシミュレーションした。
 
 ### ゼミ論
 
