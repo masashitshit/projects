@@ -27,6 +27,10 @@ Final projects by the members
 
 ### ゼミ論
 
+* 土屋直之
+  「[選択肢問題の妥当性](https://github.com/NTsuchiya0127/ex03/blob/master/2017%E5%B9%B4%E5%BA%A6%E5%B0%BE%E5%B1%B1%E3%82%BC%E3%83%9F%E8%AB%96%E6%96%87.pdf)」
+  3択問題と4択問題を様々な理解度の受験者を想定してシミュレーションを行い、試験問題としての是非を考察した。
+
 ## 2016年度
 
 ### 卒論
