@@ -27,13 +27,13 @@ Final projects by the members
 
 ### ゼミ論
 
-* 土屋直之
-  「[選択肢問題の妥当性](https://github.com/NTsuchiya0127/ex03/blob/master/2017%E5%B9%B4%E5%BA%A6%E5%B0%BE%E5%B1%B1%E3%82%BC%E3%83%9F%E8%AB%96%E6%96%87.pdf)」
-  3択問題と4択問題を様々な理解度の受験者を想定してシミュレーションを行い、試験問題としての是非を考察した。
+* 土屋 直之
+  「[選択肢問題の妥当性](https://github.com/NTsuchiya0127/ex03/blob/master/2017%E5%B9%B4%E5%BA%A6%E5%B0%BE%E5%B1%B1%E3%82%BC%E3%83%9F%E8%AB%96%E6%96%87.pdf)」  
+  3択問題と4択問題を様々な理解度の受験者を想定してシミュレーションを行い、試験問題としての是非を考察した。
 
 * 優 昌晟
-  「[機械学習を用いた為替相場分析についての先行調査](https://github.com/4kizuki/files/blob/master/seminar.pdf)」
-  機械学習による為替相場予測について、先行研究を調査し、今後の卒論執筆に向けた展望を示した。
+  「[機械学習を用いた為替相場分析についての先行調査](https://github.com/4kizuki/files/blob/master/seminar.pdf)」  
+  機械学習による為替相場予測について、先行研究を調査し、今後の卒論執筆に向けた展望を示した。
 
 ## 2016年度
 
