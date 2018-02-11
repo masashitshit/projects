@@ -1,4 +1,4 @@
-# Projects
+ # Projects
 Final projects by the members
 
 ## 2017年度
@@ -35,7 +35,7 @@ Final projects by the members
   「[機械学習を用いた為替相場分析についての先行調査](https://github.com/4kizuki/files/blob/master/seminar.pdf)」  
   機械学習による為替相場予測について、先行研究を調査し、今後の卒論執筆に向けた展望を示した。
   
-*高橋　雅士
+* 高橋　雅士
   「[労働市場におけるシグナリング理論の実証](https://github.com/masashitshit/exercises2017/blob/master/seminar_thesis.pdf)」
   労働市場におけるシグナリング理論の実証・実験的研究についての先行研究の調査、手法の考察等の研究計画を行った。
   
